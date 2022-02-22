@@ -1,0 +1,47 @@
+body {
+    color: rgb(100, 100, 100);
+    /* background: rgb(255, 255, 237); */
+}
+
+a {
+    text-decoration: none;
+    color: rgb(100, 100, 100);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.bg-nature {
+    background: rgb(164, 250, 164);
+}
+
+h2 {
+    color: rgb(58, 58, 58);
+}
+
+h2:hover {
+    text-decoration: underline;
+}
+
+.auroborealis {
+    overflow: hidden;
+}
+
+.auroborealis_ {
+    transition: transform .2s;
+    width: 450px;
+}
+
+.auroborealis_:hover {
+    transform: scale(1.1);
+}
+
+footer {
+    color: white;
+}
+
+footer a{
+    color: white;
+}
